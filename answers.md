@@ -49,3 +49,23 @@ Lorsqu'on retourne au dernier commit, les fichiers et dossiers reviennent à leu
 ### Task 7
 
 ![Gitgraph](img/gitgraph.svg)
+
+1. develop correspond au nom de la branche dans laquelle on se situe. Ici, develop.
+
+2. baa6795 correspond au hachage qui permet d'identifier le commit.
+
+3. Ce message indique qu'un merge a été effectué. Ici, la branche feature-auth est merge dans develop.
+
+4. Ce point correspond au nom et au mail de la personne effectuant le commit.
+
+5. v1.0.0 indique la version du projet.
+
+6. Ce point est le dernier commit en date après le merge de feature-auth dans develop.
+
+7. Ce point correspond au premier commit de la branche feature-auth
+
+8. Ce point correspond au dernier commit en date de la branche main.
+
+9. Cette branche correspond à la branche nommée develop.
+
+10. Cette branche correspond à la branche main du projet.
