@@ -40,6 +40,10 @@ Le texte présent après les parenthèses correspond au descriptif indiqué par 
 
 ### Task 6
 
+Lorsqu'on revient au Initial commit, les fichiers et dossiers retrouvent leur état de création.
+
+Lorsqu'on retourne au dernier commit, les fichiers et dossiers reviennent à leur dernier état qui avait disparu.
+
 ## Gitgraph
 
 ### Task 7
